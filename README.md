@@ -14,4 +14,6 @@ Sadly the software Is quite slow, I will surely try a different approach next ti
 also there is a problem with saving that I never had time to solve, so right now
 learning has to be re-run every time.
 
+This software was written with OpenGl and C++11 and using GLM, Perlin Noise and STBI libraries.
+
 ![example](https://raw.githubusercontent.com/Szustarol/Digit-Analyser/master/digitshow.png)
